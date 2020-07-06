@@ -9041,8 +9041,7 @@ background-image: linear-gradient(90deg, #1a1212 0%, #405e1d 100%);
       width: 40%;
       content: '';
       opacity: 1;
-      background-color: #1a1212;
-background-image: linear-gradient(90deg, #1a1212 0%, #405e1d 100%);
+      background-image: url("https://thumbs.dreamstime.com/b/desktop-source-code-wallpaper-computer-language-codi-desktop-source-code-technology-background-developer-125215949.jpg");
 
       -ms-transform: rotate(20deg);
       /* IE 9 */
@@ -9081,8 +9080,7 @@ background-image: linear-gradient(90deg, #1a1212 0%, #405e1d 100%);
     -ms-transform: skewY(-4deg);
     -o-transform: skewY(-4deg);
     transform: skewY(-4deg);
-    background-color: #1a1212;
-background-image: linear-gradient(90deg, #1a1212 0%, #405e1d 100%);
+    background-image: url("https://thumbs.dreamstime.com/b/desktop-source-code-wallpaper-computer-language-codi-desktop-source-code-technology-background-developer-125215949.jpg");
 
  }
 
