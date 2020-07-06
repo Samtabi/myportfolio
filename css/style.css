@@ -8124,8 +8124,9 @@ a.text-dark:hover, a.text-dark:focus {
 
 body {
   font-family: "Poppins", Arial, sans-serif;
-background-color: #777070;
-background-image: linear-gradient(90deg, #777070 0%, #000000 100%);
+background-color: #1e1914;
+background-image: linear-gradient(90deg, #1e1914 0%, #000000 100%);
+
 
 
   font-size: 16px;
@@ -8596,8 +8597,9 @@ background-image: linear-gradient(90deg, #030302 0%, #a01a1a 100%);
   touch-action: pan-y; }
 
 .bg-light {
-  background-color: #544b4b;
-background-image: linear-gradient(90deg, #544b4b 0%, #000000 100%);
+ background-color: #1e1914;
+background-image: linear-gradient(90deg, #1e1914 0%, #000000 100%);
+
 
 }
 
@@ -8616,11 +8618,11 @@ background-image: linear-gradient(90deg, #544b4b 0%, #000000 100%);
   .btn:hover, .btn:active, .btn:focus {
     outline: none; }
   .btn.btn-primary {
-    background-color: #1a1212;
-background-image: linear-gradient(90deg, #1a1212 0%, #405e1d 100%);
+    background-color: #1C3892;
+
  !important;
     border-radius: 20px;
-    border: 1px solid #0963D2  !important;
+    border: 1px solid #1C3892  !important;
     color: #fff !important; 
    margin-bottom: 80px;
   }
@@ -8637,11 +8639,11 @@ background-image: linear-gradient(90deg, #1a1212 0%, #405e1d 100%);
         background: #1089ff;
         color: #fff; }
   .btn.btn-secondary {
-    background-color: #1a1212;
-background-image: linear-gradient(90deg, #1a1212 0%, #405e1d 100%);
+    background-color: #1C3892;
+
  !important; 
     border-radius: 20px;
-    border: 1px solid blue !important;
+    border: 1px solid #1C3892 !important;
     color: #fff !important; }
     .btn.btn-secondary:hover {
       border: 1px solid #0963D2;
