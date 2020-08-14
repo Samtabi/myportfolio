@@ -8173,7 +8173,7 @@ a {
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
-  color:#F7CF74;
+  color:#0FFF2F;
   font-weight: 400; }
 
 .text-primary {
@@ -8639,11 +8639,11 @@ background-image: linear-gradient(90deg, #030302 0%, #a01a1a 100%);
   .btn:hover, .btn:active, .btn:focus {
     outline: none; }
   .btn.btn-primary {
-    background-color: #1C3892;
+    background-color: rgb(45, 109, 116);
 
  !important;
     border-radius: 20px;
-    border: 1px solid #1C3892   !important;
+    border: 1px solid rgb(45, 109, 116)   !important;
     color: #fff !important; 
    margin-bottom: 80px;
   }
@@ -8658,14 +8658,14 @@ background-image: linear-gradient(90deg, #030302 0%, #a01a1a 100%);
       .btn.btn-primary.btn-outline-primary:hover {
         border: 1px solid transparent;
         background: #1089ff;
-        color: #fff; }
+        color: blue; }
   .btn.btn-secondary {
-    background-color: #1C3892;
+    background-color: #F7CF74;
 
  !important; 
     border-radius: 20px;
-    border: 1px solid #1C3892 !important;
-    color: #fff !important; }
+    border: 1px solid silver !important;
+    color: black !important; }
     .btn.btn-secondary:hover {
       border: 1px solid #0963D2;
       background: transparent;
@@ -9325,7 +9325,7 @@ textarea.form-control {
   display: block;
   margin-bottom: 5px;
   margin-top: 50px;
-  color: white;
+  color: #F7CF74;
   font-size: 12px;
   font-weight: 600;
   letter-spacing: 2px;
