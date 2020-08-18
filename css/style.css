@@ -3411,7 +3411,7 @@ input[type="button"].btn-block {
     font-weight: bold;
   }
 
-  .navbarrr{ color:#F7CF74; 
+  .navbarrr{ color:#ff9426; 
    font-weight: bold;
    }
 
@@ -8145,7 +8145,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 body {
   font-family: "Poppins", Arial, sans-serif;
-background-color: #2D6D74;
+background-color: black;
 
 
 
@@ -8153,7 +8153,7 @@ background-color: #2D6D74;
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: white; }
+  color: #ff9426; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -8173,7 +8173,7 @@ a {
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
-  color:black;
+  color:#0d8a61;
   font-weight: 400; }
 
 .text-primary {
@@ -8639,12 +8639,12 @@ background-image: linear-gradient(90deg, #030302 0%, #a01a1a 100%);
   .btn:hover, .btn:active, .btn:focus {
     outline: none; }
   .btn.btn-primary {
-    background-color: rgb(45, 109, 116);
+    background-color: #0d8a61;
 
  !important;
     border-radius: 20px;
     border: 1px solid rgb(45, 109, 116)   !important;
-    color: #fff !important; 
+    color: white; !important; 
    margin-bottom: 80px;
   }
     .btn.btn-primary:hover {
@@ -8660,12 +8660,12 @@ background-image: linear-gradient(90deg, #030302 0%, #a01a1a 100%);
         background: #1089ff;
         color: blue; }
   .btn.btn-secondary {
-    background-color: #5DBFDF;
+    background-color: #0d8a61;
 
  !important; 
     border-radius: 20px;
-    border: 1px solid silver !important;
-    color: black !important; }
+    border: 1px solid black !important;
+    color: white; !important; }
     .btn.btn-secondary:hover {
       border: 1px solid #0963D2;
       background: transparent;
@@ -9325,7 +9325,7 @@ textarea.form-control {
   display: block;
   margin-bottom: 5px;
   margin-top: 50px;
-  color: #F7CF74;
+  color: #ff9426;
   font-size: 12px;
   font-weight: 600;
   letter-spacing: 2px;
